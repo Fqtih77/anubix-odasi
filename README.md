@@ -1,4 +1,6 @@
-# Anubix
+# Anubix Odası
+
+> **Arşiv.** Bu, anubix.dev'in eski hâli olan kişisel "oda" sitesidir ve artık geliştirilmiyor. Kod olduğu gibi, öğrenme ve referans amacıyla açık bırakıldı. anubix.dev bugün Anubix masaüstü uygulamasının tanıtım sitesidir.
 
 **Anubix**, CV'mi, projelerimi, başarılarımı ve hesaplarımı bir araya getirmek için adım adım geliştirdiğim kişisel platform. İzometrik bir oda üzerinden CV'me ve projelerime ulaşılır; özel panelde planlayıcı, not defteri, takvim/anımsatıcı, kişisel dosya alanı ve projeleri koda dokunmadan yöneten bir komut bloğu bulunur. Bix asistanı, ayrıca kurulan yerel bir dil modeline bağlanabilir.
 
